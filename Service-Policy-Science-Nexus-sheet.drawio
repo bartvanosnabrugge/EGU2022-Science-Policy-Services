@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T18:29:26.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="yVsx6O2jHvk7_O43Pn15" version="18.0.3" type="github"><diagram id="9_bzRh5yCjQmKdQ4D5J1" name="Page-1">ddHBEoIgEADQr+GOkk2dzfLSyUNnRjZhBl0GabS+Ph0wY6wLs7xdWGYhLG/Hi+VGXlGAJikVI2EnkqbH3X5aZ3h6yJIAjVXCU7JCpV4QkAZ9KAF9VOgQtVMmxhq7DmoXGbcWh7jsjjruangDG6hqrrd6U8JJr4eMrl6CauTSOaEh0/KlOEAvucDhi1hBWG4RnY/aMQc9z26Ziz93/pP9PMxC534cmIL17mkTfRAr3g==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-11T18:32:53.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="kvGvgu0opnNEphGFtDM0" version="18.0.3" type="github">
+  <diagram id="9_bzRh5yCjQmKdQ4D5J1" name="Page-1">
+    <mxGraphModel dx="2703" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeWidth=6;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="960" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-13" value="Project" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-14" value="Organisation" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-15" value="Person" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="190" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-16" value="&lt;h1&gt;Your Policy-Science-Services sheet&lt;/h1&gt;&lt;p&gt;This is the sheet to help you think about where you, the organisations and people&amp;nbsp; you work with are positioned in the Policy, Science, Services Nexus.&lt;/p&gt;&lt;p&gt;Copy the coloured squares, rename them and place them where you think they fit in the triangle.&lt;/p&gt;&lt;p&gt;&lt;span&gt;In the next step we will discuss each other&#39;s triangles: where are you now? what do you think is ideal for you? how to get there? What is the role of the scientist?&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="250" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;POLICY&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;SCIENCE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;SERVICES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="800" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-20" value="Project" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-21" value="My name" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z-_e_k_a8qhV4wfMPEyN-22" value="Organisation" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
